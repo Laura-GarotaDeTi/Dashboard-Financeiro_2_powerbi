@@ -8,4 +8,4 @@ Nesse desafio foi desenvolvido um segundo dashboard de finanças
 📊Qual foi o lucro total?
 📊Qual é a margem?
 
- ![Dashboard](imagem/Dash_Financeiro.png)
+ ![Dashboard](imagem/Dash.png)
